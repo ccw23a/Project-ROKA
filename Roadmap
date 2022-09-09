@@ -7,12 +7,21 @@ OS: Ubuntu 22.04.1 LTS or latest version on GCP
 
 Language: C/C++ (Baekjoon, Topcoder), Python (Deep Learning (with colab), Baekjoon, Topcoder)
 
+사용기간: 22.10.01 ~ 23.11.30  (사지방 연등 (2시간) 과 주말/휴일 (5~6시간/일)에 인스턴스 가동예정) 
+
 Code-server: https://github.com/coder/code-server
 
 Stack-overflow: https://stackoverflow.com/users/15373703/ccw23a
+
+GCP로 code-server 만드는 법: https://velog.io/@2wndrhs/code-server%EB%A1%9C-%EC%82%AC%EC%A7%80%EB%B0%A9%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0-1-GCP-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1
 
 
 To-do list:
 
 - 휴가때 파이썬 딥러닝, C/C++ 알고리즘 서적 구매
-- 
+- GCP 인스턴스 생성 (본계정으로 e2-medium-2, 30GiB 디스크, 과금제)
+- code-server 설치
+- Python, C/C++ (GCC, G++) 개발환경 구축
+- Google 부계정 만들기 (후반때 3달 동안 쓸 딥러닝용 고성능 GCP 인스턴스용 부계정)
+
+
