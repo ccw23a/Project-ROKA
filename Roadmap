@@ -20,8 +20,9 @@ GCP로 code-server 만드는 법: https://velog.io/@2wndrhs/code-server%EB%A1%9C
 
 To-do list: (19일 까지)
 
-- 휴가때 파이썬 딥러닝, C/C++ 알고리즘 서적 구매
-- GCP 인스턴스 생성 (본계정으로 e2-medium-2, 30GiB 디스크, 과금제)
+- 휴가때 파이썬 딥러닝, C/C++ 알고리즘 서적 구매 ****
+- GCP 인스턴스 생성 (본계정으로 e2-medium-2, 100GiB 디스크, 과금제)
+- GCP 이용시간 측정 및 계산 ****
 - code-server 설치
 - Python, C/C++ (GCC, G++) 개발환경 구축
 - Google 부계정 만들기 (후반때 3달 동안 쓸 딥러닝용 고성능 GCP 인스턴스용 부계정)
