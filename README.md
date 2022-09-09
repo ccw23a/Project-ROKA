@@ -1,5 +1,5 @@
 # Project-ROKA
-Deep Learning and Python Development for Code-server and Google Cloud Platform
+Deep Learning and C++/C, Python Development for Code-server and Google Cloud Platform
 
 
 Costs for GCP Code-server
