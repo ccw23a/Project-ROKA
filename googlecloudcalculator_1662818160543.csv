@@ -1,0 +1,13 @@
+name,quantity,region,service_id,sku,product_description,"unit_price, USD","total_price, USD"
+E2 Instance Core running in Seoul,96,asia-northeast3,6F81-5844-456A,9304-94C4-2117,CP-COMPUTEENGINE-VMIMAGE-E2-CUSTOM-4-8192,0.02802642,2.69053632
+E2 Instance Ram running in Seoul,192,asia-northeast3,6F81-5844-456A,D715-4E57-BAFB,CP-COMPUTEENGINE-VMIMAGE-E2-CUSTOM-4-8192,0.00373911,0.71790912
+Storage PD Capacity in Seoul,50,asia-northeast3,6F81-5844-456A,0306-B164-A7B7,CP-COMPUTEENGINE-STORAGE-PD-READONLY,0.052,2.6
+,,,,,,,
+,,,,,,Total Price:,6.00844544
+,,,,,,* Sustained use discount (SUD) is not included. You may need to apply discounts separately for each SKU,
+,,,,,,,
+"Prices are in US dollars, effective date is 2022-09-10T13:56:00.543Z.",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/products/calculator/#id=a0eee23f-d6b3-4fdc-81f7-8c4a6e87d351,,,,,,
