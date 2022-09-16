@@ -1,0 +1,5 @@
+string = input("write along> ")
+print(string)
+print(type(string))
+print(len(string))
+print(int(string) + 100)
