@@ -1,3 +1,7 @@
+print('Hello World')
+
+print("Hello World with double comma")
+
 print('Hellow World! \"Tom siad\" ')
 
 print(len("This code is set on code-server"))
@@ -20,4 +24,4 @@ And he is hungry
 So he ate it\
 """)
 
-
+print("안녕" + "하세요")
