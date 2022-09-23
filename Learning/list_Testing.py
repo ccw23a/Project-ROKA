@@ -21,15 +21,17 @@ print("ta1 * 2 = ", ta2 * 2)
 print("\n")
 
 print("append, insert extend 추가")
-
+print("append \n")
 ta1.append(True)
 ta1.append("stand")
 
 print(ta1)
-
+print("insert \n")
 ta1.insert(10, 60)
 ta1.insert(0, False)
 
 print(ta1)
 
-print("\n")
+print("extend")
+
+print("index delete by del, pop")
