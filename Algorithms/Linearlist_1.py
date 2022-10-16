@@ -39,3 +39,16 @@ print(array)
 
 ##그럼 삭제는 어떻게 할까? (여기서 ABc를 지우겠다)
 
+array[4] = None
+
+array[4] = array[5]
+array[5] = None
+
+array[5] = array[6]
+array[6] = None
+
+array[6] = array[7]
+array[7] = None
+
+print(array)
+
