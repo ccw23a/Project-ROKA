@@ -35,4 +35,7 @@ print(array)
 
 array[3] = "Diana"
 print(array)
-##how? so?
+
+
+##그럼 삭제는 어떻게 할까? (여기서 ABc를 지우겠다)
+
